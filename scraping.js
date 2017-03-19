@@ -4,7 +4,6 @@ var path = require('path');
 var request = require('request');
 var cheerio = require('cheerio');
 var fs = require('fs');
-var moment = require('moment');
 //local server stuff
 var app = express();
 var port = 8000;
