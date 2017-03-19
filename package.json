@@ -6,7 +6,7 @@
    "cheerio": "^0.22.0",
    "express": "^4.15.2",
    "request": "^2.81.0"
- }
+ },
   "main": "scraping.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
